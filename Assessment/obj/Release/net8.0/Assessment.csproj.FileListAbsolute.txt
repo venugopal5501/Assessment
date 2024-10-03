@@ -1,0 +1,4 @@
+D:\Assessment\Assessment\obj\Release\net8.0\Assessment.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\Assessment\obj\Release\net8.0\Assessment.AssemblyInfoInputs.cache
+D:\Assessment\Assessment\obj\Release\net8.0\Assessment.AssemblyInfo.cs
+D:\Assessment\Assessment\obj\Release\net8.0\Assessment.csproj.CoreCompileInputs.cache
